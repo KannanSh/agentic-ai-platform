@@ -174,26 +174,6 @@ Reference architecture for operating AI applications safely in production.
 - LLMOps / AI observability
 - Cost-aware GenAI platforms
 
-## 🚀 Featured AI & Cloud Projects
-
-### Enterprise RAG Platform
-
-Production-oriented Retrieval-Augmented Generation platform featuring:
-
-- RAG pipeline
-- PostgreSQL + pgvector
-- OpenAI / Azure OpenAI / AWS Bedrock
-- Source citations
-- RBAC
-- Audit trail
-- Evaluation
-- Prometheus / Grafana
-- Docker
-- Terraform
-- AWS / Azure
-
-[View Enterprise RAG Platform](https://github.com/KannanSH/enterprise-rag-platform)
-
 ## Contact
 
 **Kannan Shanmugam**  
@@ -201,3 +181,5 @@ Chennai, India
 Email: versatilekith@gmail.com
 
 > This portfolio separates verified professional experience from portfolio/reference implementations. Architecture examples are intended to demonstrate design capability and are not presented as production deployments unless explicitly stated.
+#   K a n n a n S H . g i t h u b . i o  
+ 
